@@ -19,7 +19,7 @@
 
 ### ✨ 特性 (Features)
 
-PIX 致力于剥离一切不必要的干扰，为您提供类似 Typora 的**沉浸式纸质化单栏写作体验**，并专门针对中文沉浸式长文工作流进行了底层优化。
+PIX 致力于剥离一切不必要的干扰，为您提供**沉浸式纸质化单栏写作体验**，并专门针对中文沉浸式长文工作流进行了底层优化。
 
 - 🦋 **全域极简视觉 UI**：纯白底色、无边界流出排版，享受纯粹打字反馈。
 - 🇨🇳 **原生级中文排版引擎**：底层强制智能匹配 `苹方` 与 `微软雅黑`，内置 1.8 科学行高，打造顶级中文阅读节奏。
@@ -45,7 +45,7 @@ PIX 致力于剥离一切不必要的干扰，为您提供类似 Typora 的**沉
 
 ### ✨ Features
 
-PIX strips away unnecessary distractions, offering a **Typora-like, immersive single-column UI** tailored for distraction-free writing workflows.
+PIX strips away unnecessary distractions, offering an **immersive single-column UI** tailored for distraction-free writing workflows.
 
 - 🦋 **Minimalist UI**：Pure white canvas with borderless layouts for unhindered typing feedback.
 - 🇨🇳 **Native CJK Optimization**：Smart fallback to `PingFang` and `Microsoft YaHei` with a perfectly calibrated 1.8 line-height for CJK rhythm.
